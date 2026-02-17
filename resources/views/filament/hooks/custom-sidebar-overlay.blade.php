@@ -65,7 +65,7 @@
             <span class="material-icons-round">menu_book</span>
             <span>Documentación</span>
         </a>
-        <a href="https://github.com" target="_blank"
+        <a href="https://github.com/jpossua/VetManager-filament.git" target="_blank"
             style="display:flex; align-items:center; gap:0.75rem; padding:0.75rem 1rem; color:rgba(255,255,255,0.7); border-radius:0.5rem; text-decoration:none; font-weight:500; transition:background 0.15s;"
             onmouseover="this.style.background='rgba(255,255,255,0.05)';this.style.color='#fff'"
             onmouseout="this.style.background='transparent';this.style.color='rgba(255,255,255,0.7)'">
